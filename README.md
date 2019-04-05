@@ -9,7 +9,7 @@ ELLog is a framework that provides versatile logging options for Swift and Objec
 
 ## Requirements
 
-ELLog requires Swift 4 and Xcode 9.2.
+ELLog requires Swift 5 and Xcode 10.2.
 
 ## Installation
 

@@ -77,7 +77,7 @@ open class Logger: NSObject {
     /**
     The default logger instance.  This is typically a LogConsoleDestination with a log level of .Debug.
     */
-    @objc open static let defaultInstance = loggerDefault()
+    @objc public static let defaultInstance = loggerDefault()
 
     /**
     Allows this logger to be enabled/disabled.

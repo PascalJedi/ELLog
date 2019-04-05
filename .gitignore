@@ -4,3 +4,10 @@ UserInterfaceState.xcuserstate
 xcuserdata
 build
 DerivedData/*
+
+### Xcode Patch ###
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+/*.gcno
